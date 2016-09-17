@@ -7,7 +7,9 @@ use pocketmine\event\Listener;
 use pocketmine\utils\TextFormat;
 use pocketmine\event\player\PlayerInteractEvent;
 use pocketmine\item\Item;
-use pocketmine\inventory\InventoryBase;
+use pocketmine\inventory\InventoryBase
+use pocketmine\Player;
+use pocketmine\Server;
 
 class Main extends PluginBase implements Listener {
   
