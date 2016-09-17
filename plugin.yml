@@ -1,0 +1,6 @@
+name: WearArmorFast
+main: WearArmorFast\Main
+author: khavmc
+version: 1.0.0
+api: 2.0.0
+description: WearArmorFast In PocketMine!
